@@ -12,3 +12,7 @@ more cacheable, and easier to maintain.
 
 See [the demo page](http://mnot.github.com/hinclude/) for documentation and
 examples.
+
+# Changes in Fork
+
+- Requests now send Header "X-Requested-With" with "XMLHttpRequest"
